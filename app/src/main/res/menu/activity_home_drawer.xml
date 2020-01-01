@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_book"
+            android:icon="@drawable/ic_library_add"
+            android:title="Book a book" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_mode_edit"
+            android:title="Personal information" />
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_action_exit"
+            android:title="Logout" />
+    </group>
+
+
+</menu>
