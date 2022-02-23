@@ -2,7 +2,7 @@
 
 This is an android application I made for the university I studied in, it contains all the books available in the university's library and you can book a book from the application.
 
-![screenshot](./screenshot.png)
+<img src="./screenshot.png" width=50% height=50%>
 
 ## Built With
 
